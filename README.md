@@ -11,10 +11,10 @@
   </a>
   <a href='https://cr8br0ze.github.io/InstructGIE/'>
   <img src='https://img.shields.io/badge/Project-Page-orange?style=flat&logo=Google%20chrome&logoColor=orange'></a>
-  <a href='https://github.com/cr8br0ze/InstructGIE-code'>
+  <a href='https://github.com/cr8br0ze/InstructGIE-Code'>
     <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'></a>
   <a href="" target='_blank'>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=cr8br0ze.InstructGIE-code&left_color=gray&right_color=blue">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=cr8br0ze.InstructGIE-Code&left_color=gray&right_color=blue">
   </a>
 </p>
 
